@@ -1,4 +1,4 @@
-import meetupModel from "../models/meetup.model.js";
+import meetupModel from "../models/conference.model.js";
 import {
   meetupSchema,
   updateMeetupSchema,
