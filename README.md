@@ -1,4 +1,4 @@
-# Meetup API
+# conference API
 
 REST API для управления митапами: регистрация пользователей, JWT‑логин, CRUD митапов.
 
