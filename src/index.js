@@ -1,6 +1,6 @@
 import express from "express";
 import dotenv from "dotenv";
-import meetupRoutes from "./routes/meetup.routes.js";
+import meetupRoutes from "./routes/conference.routes.js";
 import authRoutes from "./routes/auth.routes.js"; // 💡 Вынес отдельно
 import passport from "./config/passport.js";
 
